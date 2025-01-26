@@ -33,6 +33,7 @@ main {
     font-size: 0.9rem;
     margin-top: 0.5rem;
 }
+aqi-display {
     padding: 1rem;
     border-radius: 8px;
     margin-bottom: 2rem;
