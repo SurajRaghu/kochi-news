@@ -33,3 +33,24 @@ main {
     font-size: 0.9rem;
     margin-top: 0.5rem;
 }
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.aqi-value {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.aqi-time {
+    font-size: 0.8rem;
+    color: #666;
+}
+
+.good { background-color: #a8e6cf; }
+.moderate { background-color: #ffd3b6; }
+.unhealthy-sensitive { background-color: #ffaaa5; }
+.unhealthy { background-color: #ff8b94; }
+.very-unhealthy { background-color: #ff6b6b; }
